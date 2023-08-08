@@ -1,0 +1,42 @@
+[
+  {
+    "locationId": "rack00",
+    "item_name": "ubrh"
+  },
+  {
+    "locationId": "rack01",
+    "name": "wpjj"
+  },
+  {
+    "locationId": "rack02",
+    "name": "ubrh"
+  },
+  {
+    "locationId": "rack04",
+    "name": "wpjj"
+  },
+  {
+    "locationId": "rack06",
+    "name": "beju"
+  },
+  {
+    "locationId": "rack09",
+    "name": "wpjj"
+  },
+  {
+    "locationId": "rack11",
+    "name": "ubrh"
+  },
+  {
+    "locationId": "rack12",
+    "name": "ubrh"
+  },
+  {
+    "locationId": "rack13",
+    "name": "gdyh"
+  },
+  {
+    "locationId": "rack19",
+    "name": "ubrh"
+  }
+]
